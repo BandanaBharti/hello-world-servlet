@@ -12,7 +12,7 @@ stages {
 
       // Get some code from a GitHub repository
 
-      git 'git@github.com:BandanaBharti/hello-world-servlet.git'
+      git 'https://github.com/BandanaBharti/hello-world-servlet.git'
 
       // Get the Maven tool.
      
